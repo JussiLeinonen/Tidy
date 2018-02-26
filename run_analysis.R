@@ -41,3 +41,4 @@ Set_meanstd$activity_labels <- activity[Set_meanstd$activity]
 Set_tidy <- group_by(Set_meanstd, id, activity_labels)
 Set_tidy$activity <- NULL
 Tidy_data <- summarize_all(Set_tidy,mean)
+write.table(Tidy_data, file = "Tidy_data.txt", row.names = FALSE)
