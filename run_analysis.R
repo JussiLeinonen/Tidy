@@ -1,3 +1,6 @@
+library(plyr)
+library(dplyr)
+
 #Imports Test & Train datasets.
 
 testX <- read.table("./test/X_test.txt")
