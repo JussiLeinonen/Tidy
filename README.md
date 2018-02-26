@@ -15,3 +15,18 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
  ###  3 Uses descriptive activity names to name the activities in the data set
  ###  4 Appropriately labels the data set with descriptive variable names.
  ###  5 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+platform       i386-w64-mingw32            
+arch           i386                        
+os             mingw32                     
+system         i386, mingw32               
+status                                     
+major          3                           
+minor          4.3                         
+year           2017                        
+month          11                          
+day            30                          
+svn rev        73796                       
+language       R                           
+version.string R version 3.4.3 (2017-11-30)
+nickname       Kite-Eating Tree        
