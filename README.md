@@ -1,4 +1,4 @@
-# Tidy
+## Tidy
 
 Getting and Cleaning Data Course Project
 
